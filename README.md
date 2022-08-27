@@ -1,3 +1,4 @@
 # Short Description
-> Unique Firm Tickers ever listed on [TSETMC.com](http://www.tsetmc.com)
+- Listed Firms Base Tickers
+- TSETMC ID to corresponding Firm Base Ticker (shortened as FirmTicker)
 
